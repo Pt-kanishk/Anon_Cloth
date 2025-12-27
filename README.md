@@ -32,7 +32,7 @@ git clone https://github.com/nikhilsundriya/anon-clothing-website.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/nikhil_sundriya).
+If you want to contact me you can reach me at [LinkedIn](https://www.linkedin.com/in/kanishk-parashar-737003293/).
 
 ## License
 
